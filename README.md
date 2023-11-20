@@ -15,18 +15,22 @@ to install this script you sholud install git, type this in the termnal :
 
 1 - sudo apt-get install git
 
-2 - git 
+2 - git clone https://github.com/OxAbdulrahman/whole-pinging/
 
-3 - sudo chmod 777 whole-pinging.sh
+3 - cd whole-pinging
+
+4 - sudo chmod 777 whole-pinging.sh
+
+5 - ./whole-pinging.sh -h
 
 .
 
 .
 
-and finely for more help type ./whole-pinging.sh -h 
 
 
-This is My account in twiter ( X ) for more things like this
+This is My account in twiter ( X ) follow me for more things like this
+
 
 *if you face any kind of porblms feel free to text me on twiter 
 
