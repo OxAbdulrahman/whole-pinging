@@ -1,6 +1,6 @@
 # whole-pinging
 
-Hi, Whole-pinging is a great tool that simlpy ping the whole network and you choese what the ips you want to test, for example 192.168.1.* or 192.168.*.1 and you make the range of the testing ips.
+Hi, Whole-pinging is a great tool that simply pings the whole network, and you can choose which IPs you want to test. For example, 192.168.1.* or 192.168.*.1, and you can define the range of the testing IPs.
 
 
 
@@ -11,26 +11,25 @@ Hi, Whole-pinging is a great tool that simlpy ping the whole network and you cho
 .
 
 
-to install this script you sholud install git, type this in the termnal :
+To install this script, you should install Git. Follow these steps in the terminal:
 
-1 - sudo apt-get install git
+1 - Run the command: sudo apt-get install git
 
-2 - git clone https://github.com/OxAbdulrahman/whole-pinging/
+2 - Clone the repository with: git clone https://github.com/OxAbdulrahman/whole-pinging/
 
-3 - cd whole-pinging
+3 - Change to the whole-pinging directory: cd whole-pinging
 
-4 - sudo chmod 777 whole-pinging.sh
+4 - Make the whole-pinging.sh script executable: sudo chmod 777 whole-pinging.sh
 
-5 - ./whole-pinging.sh -h
-
-.
+5 - Run the script with the -h option to see the available options: ./whole-pinging.sh -h
 
 .
 
+.
 
 
-This is My account in twiter ( X ) follow me for more things like this
 
+This is my Twitter account. Follow me for more content like this: https://twitter.com/OxAbdulrahman
 
-*if you face any kind of porblms feel free to text me on twiter 
+*if you face any problems, feel free to reach out to me on Twitter.
 
